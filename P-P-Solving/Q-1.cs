@@ -37,7 +37,7 @@ namespace P_P_Solving
 		public  void FirstFactor()
         {
 			
-			Console.WriteLine("Enter Number- ");
+			Console.WriteLine("Enter Number - ");
 			int number = Convert.ToInt32(Console.ReadLine());
 			int result = 1;
 			for (int i = number; i > 0; i--)
